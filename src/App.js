@@ -2,8 +2,8 @@ import React from 'react';
 import PDTitle from './PDTitle';
 import PDMenu from './PDMenu';
 import PDLogo from './PDLogo';
-import background1 from './background1.png';
-import headerImage from './headerImage.jpg';
+import background1 from '../src/images/background1.png';
+import headerImage from '../src/images/headerImage.jpg';
 
 function App() {
   
