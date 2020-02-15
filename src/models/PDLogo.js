@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import logo from '../images/logo.png';
 
 class PDLogo extends Component {
     render() {
         return (
             <div className="logo">
-                <h1>url(logo.png)</h1>
+                <p><img src={logo} /></p>
             </div>
         );
     }
