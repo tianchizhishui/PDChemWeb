@@ -4,7 +4,7 @@ class PDTitle extends Component {
     render() {
         return (
             <div className="title">
-                <h>PD Chem ITech. Corp</h>
+                <p>PD Chem ITech. Corp</p>
             </div>
         );
     }
